@@ -10,7 +10,6 @@ import { KeyPipe } from './key.pipe';
 import { CurrencyPipe } from '@angular/common';
 import { ChooseQuantityComponent } from './form-controls/choose-quantity/choose-quantity.component';
 import { OnlyNumberDirective } from './directives/only-number.directive';
-import { MillionaireNextDoorComponent } from './calculators/millionaire-next-door/millionaire-next-door.component';
 import { BaseComponent } from './base/base.component';
 
 
@@ -21,7 +20,6 @@ import { BaseComponent } from './base/base.component';
     KeyPipe,
     ChooseQuantityComponent,
     OnlyNumberDirective,
-    MillionaireNextDoorComponent,
     BaseComponent
   ],
   imports: [
